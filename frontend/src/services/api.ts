@@ -2,12 +2,12 @@ import axios from 'axios';
 import type { ApiResponse } from '../types';
 
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://renart-case-study-o108.onrender.com';
 
 // Axios instance oluştur
 const apiClient = axios.create({
     baseURL: API_BASE_URL,
-    timeout: 10000,
+    timeout: 30000,
     headers: {
         'Content-Type': 'application/json',
     },
