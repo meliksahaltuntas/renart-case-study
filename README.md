@@ -2,7 +2,10 @@
 
 Nişan yüzüğü ürünlerini gerçek zamanlı altın fiyatlarıyla sunan full-stack web uygulaması.
 
+## 🚀 Canlı Demo
 
+- **Frontend:** https://YOUR-VERCEL-URL.vercel.app
+- **Backend API:** https://renart-case-study-o108.onrender.com/api/products
 ## 🛠️ Teknolojiler
 
 ### Backend
